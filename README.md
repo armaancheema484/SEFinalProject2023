@@ -12,3 +12,10 @@ Instructions while setting up the fresh project:
 6. npm run dev
 7. VITE version is shown
 8. Local: http code is shown & other instuctions
+
+To RUN:
+1. Download the entire project
+2. Open in VS Code
+3. Open Terminal in VS Code
+4. run the cmd: "npm run dev"
+5. (user might have to install npm if they do not already have it)
